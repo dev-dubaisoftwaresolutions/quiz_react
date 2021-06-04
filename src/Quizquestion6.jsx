@@ -1,20 +1,20 @@
 import React from 'react';
 import './App.css';
-import Common from './Common';
 
+import Common6 from './Common6';
 
-const Quizchapter = () =>{
+const Quizquestion6 = () =>{
       return(
             <>
-            <Common 
-                  visit2="./Tutorial"
+            <Common6 
+                  visit2="./Quizquestion5"
                   btprevoius="Previous"
-                  visit="./Quizchapter2"
+                  visit="./Result"
                   btname="Next"
             />
             
-
+  
             </>
       )
 }
-export default Quizchapter;
+export default Quizquestion6;

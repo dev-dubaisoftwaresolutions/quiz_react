@@ -51,7 +51,9 @@ const Cards = () => {
           </div>
           <div className="col-4  ">
             <div className="card" style={{ width: "18rem;" }} >
-              <img className="card-img-top" src="fullstackk.jpg" alt="not found" />
+              <img className="card-img-top" 
+              src="fullstackk.jpg" 
+              alt="not found" />
               <div className="card-body">
                 <h5 className="card-title">Chapter 3 </h5>
                 <h5>What is FUll Stack?</h5>

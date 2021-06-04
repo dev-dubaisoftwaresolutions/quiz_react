@@ -2,12 +2,12 @@ import React from "react";
 import "./App.css";
 // import Quizchapter from "./Quizchapter";
 import {NavLink} from "react-router-dom";
-// import Navigation from './Navigation';
 const Tutorial = (props) => {
   return (
+    
     <>
-    {/* <div>
-      <Navigation/></div> */}
+     
+      
       <div className="container mt-5">
         <h3>Tutorials</h3>
       </div>
